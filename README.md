@@ -23,14 +23,14 @@
 <br />
 <br />
 
-Hi, I'm Moch Guntur Pratama, a Full Stack Developer 🚀 from Bali,Indonesia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BaliGatra](https://www.baligatra.com/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
+Hi, I'm Moch Guntur Pratama, a Full Stack Developer 🚀 from Bali,Indonesia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BaliGatra](https://www.baligatra.com/)..
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Node Js,Typescript,Flutter,Kotlin,Java; 
+- 🌱 I’m currently learning Node =Js,Typescript,Flutter,Kotlin,Java; 
 - 👯 I'm available on collaborate projects;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
