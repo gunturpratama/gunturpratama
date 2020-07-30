@@ -23,7 +23,7 @@
 <br />
 <br />
 
-Hi, I'm Moch Guntur Pratama, a Full Stack Developer 🚀 from Bali,Indonesia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BaliGatra](https://www.baligatra.com/)..
+Hi, I'm Moch Guntur Pratama, a Full Stack Developer 🚀 from Bali,Indonesia, currently, I'm a Software Engineer..
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
